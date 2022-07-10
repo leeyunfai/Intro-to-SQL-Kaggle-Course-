@@ -1,4 +1,5 @@
 # Intro to SQL Kaggle Course
 Learn SQL for working with databases, using Google BigQuery, on Kaggle Platform
+https://www.kaggle.com/learn/intro-to-sql
 
-Currently I am undergoing the course at https://www.kaggle.com/learn/intro-to-sql to better utilise SQL
+Exercises done within this course were saved within this repository.
